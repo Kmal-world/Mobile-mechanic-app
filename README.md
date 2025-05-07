@@ -21,10 +21,3 @@ This software provides **full-service business management** for mobile mechanics
 ✅ **Payments:** Stripe API Integration  
 ✅ **Customer Support:** Socket.io, Twilio SMS, Google Translate API  
 
-## Setup Instructions
-### **Backend**
-```bash
-git clone https://github.com/YourGitHubUsername/mobile-mechanic-app.git
-cd mobile-mechanic-app
-npm install
-npm start
